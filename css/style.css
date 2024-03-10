@@ -43,11 +43,11 @@ header .cropsense-nav {
   box-shadow: 0 25px 45px rgba(79, 86, 101, 0.075);
   top: 0;
   left: 0;
-  height: 144px;
+  height: 70px;
 }
-@media (max-width: 767px) {
+@media (max-width: 991px) {
   header .cropsense-nav {
-    height: 185px;
+    height: auto;
   }
 }
 header .logo img {
